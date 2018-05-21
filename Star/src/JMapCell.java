@@ -1,5 +1,3 @@
-package star;
-
 import java.awt.*;
 import javax.swing.*;
 

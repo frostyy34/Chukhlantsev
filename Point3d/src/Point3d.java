@@ -1,5 +1,3 @@
-package lab;
-
 import java.lang.Math;
 
 public class Point3d {
